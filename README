@@ -1,0 +1,24 @@
+This is 5x13, a condensed pixel font built on 6x13 ("fixed").
+
+The goal is to create a well readable font that is only five pixels
+wide, such that you can fit four 80-chars wide shells next to each
+other on a 1600x1200 display.  5x13 is special in being pretty tall,
+which greatly increases readability.
+
+It only covers ASCII 7-bit for now, as well as some selected German
+special characters.  Patches are welcome!
+
+Inspirations in order of importance:
+* -misc-fixed-medium-r-semicondensed--13-120-75-75-c-60-iso10646-1
+* artwiz-aleczapka lime
+* Rotis Grotesk
+
+
+This font is, like 6x13, in the public domain.
+
+To the extent possible under law, the creator of this work has waived
+all copyright and related or neighboring rights to this work.
+
+http://creativecommons.org/publicdomain/zero/1.0/
+
+---Christian Neukirchen, March 2011
